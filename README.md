@@ -1,14 +1,14 @@
-# Game Project "Weather Ready or Not"
-DES310 was a game development module at Abertay University. We worked as team "Moonsprite" to create the serious game "Weather Ready or Not". In this game you try help a town prepare for a dangerous storm. This was based on client proposal by British Red Cross.
+# Project "Weather Ready or Not"
+DES310 was a game development module at Abertay University. We worked as team "Moonsprite" to create the serious game "Weather Ready or Not" in Unity Engine. In this game you try help a town prepare for a dangerous storm. This was based on client proposal by British Red Cross.
 
 
-## Moonsprite Team
-Team Members: Atanas L - UI/UX, Animation; Dominic R - Producer, Game Designer; Emma M - Environments Design; Murray G - Character Design; Maciej W - Programming; Nicole B - Sound Fx; Vasco F - Programming. Academic Tutor: C Michalakos
+## The Moonsprite Team
+Atanas L - UI/UX, Animation; Dominic R - Producer, Game Designer; Emma M - Environments Design; Murray G - Character Design; Maciej W - Programming; Nicole B - Sound Fx; Vasco F - Programming. Academic Tutor: C Michalakos
 
 ## Module Description
 Individual students will be expected to contribute to their team by taking on a professional role suited to their area of study. As part of the module, all students will be expected to: communicate with clients and relevant stakeholders; participate in pitching and presentations; research and test technical pipelines; create project documentation and planning materials; and contribute to the iterative design and development of a final interactive prototype.
 
-### Aims
+### Professional Aims
 The aim of this module is to provide the student with the ability to operate professionally as a subject specialist within a multidisciplinary development team, contributing to planning, presenting, prototyping, and production.
 
 ### Learning Outcomes
