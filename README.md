@@ -3,7 +3,9 @@ This project was a game development module at Abertay University. We worked toge
 
 
 ## The Moonsprite Team
-Atanas L - UI/UX, Animation; Dominic R - Producer, Game Designer; Emma M - Environments Design; Murray G - Character Design; Maciej W - Programming; Nicole B - Sound Fx; Vasco F - Programming. Academic Tutor: C Michalakos
+Atanas L - UI/UX, Animation; Dominic R - Producer, Game Designer; Emma M - Environments Design; Murray G - Character Design; Maciej W - Programming; Nicole B - Sound Fx; Vasco F - Programming.
+
+Academic Tutor: C Michalakos
 
 ## Module Description
 Individual students will be expected to contribute to their team by taking on a professional role suited to their area of study. As part of the module, all students will be expected to: communicate with clients and relevant stakeholders; participate in pitching and presentations; research and test technical pipelines; create project documentation and planning materials; and contribute to the iterative design and development of a final interactive prototype.
