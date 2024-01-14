@@ -1,5 +1,5 @@
 # Project "Weather Ready or Not"
-DES310 was a game development module at Abertay University. We worked as team "Moonsprite" to create the serious game "Weather Ready or Not" in Unity Engine. In this game you try help a town prepare for a dangerous storm. This was based on client proposal by British Red Cross.
+This project was a game development module at Abertay University. We worked together as team "Moonsprite" to dcreate the serious game "Weather Ready or Not" in Unity Engine. In this game you try help a town prepare for a dangerous storm. This was based on client proposal by British Red Cross.
 
 
 ## The Moonsprite Team
